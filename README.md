@@ -25,7 +25,11 @@ After clicking to add user option the dataset will be taken and then model will 
 
 On User Login page, after entering Locker number the User will be able to login with proper recognition of their face.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Related Poster of the Project : https://drive.google.com/open?id=1GgI54KyTBUWOCNFW-SLxwlLbZWOdZakf
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 #ScreenShots of the Web Application
 
